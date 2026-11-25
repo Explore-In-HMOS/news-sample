@@ -11,7 +11,7 @@ export const SEEDED_ARTICLES: ArticleDetail[] = [
   {
     id: 'top-001',
     topicId: 'top',
-    title: 'HarmonyOS Next Reaches New Daily Usage Milestone',
+    title: 'HarmonyOS Reaches New Daily Usage Milestone',
     imageUrl: $r('app.media.image1'),
     source: 'HMS Daily',
     publishedAt: '09:19',

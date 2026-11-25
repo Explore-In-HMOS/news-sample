@@ -2,7 +2,7 @@
 
 # NewsSample
 
-News Sample is a HarmonyOS Next wearable news demo expanded into a richer watch-first product flow.
+News Sample is a HarmonyOS wearable news demo expanded into a richer watch-first product flow.
 
 # Preview
 
